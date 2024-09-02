@@ -1,0 +1,14 @@
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\bin\Debug\net8.0\Module_319_task2.exe
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\bin\Debug\net8.0\Module_319_task2.deps.json
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\bin\Debug\net8.0\Module_319_task2.runtimeconfig.json
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\bin\Debug\net8.0\Module_319_task2.dll
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\bin\Debug\net8.0\Module_319_task2.pdb
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\obj\Debug\net8.0\Module_319_task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\obj\Debug\net8.0\Module_319_task2.AssemblyInfoInputs.cache
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\obj\Debug\net8.0\Module_319_task2.AssemblyInfo.cs
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\obj\Debug\net8.0\Module_319_task2.csproj.CoreCompileInputs.cache
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\obj\Debug\net8.0\Module_319_task2.dll
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\obj\Debug\net8.0\refint\Module_319_task2.dll
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\obj\Debug\net8.0\Module_319_task2.pdb
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\obj\Debug\net8.0\Module_319_task2.genruntimeconfig.cache
+C:\Users\samue\RiderProjects\Module_319_task2\Module_319_task2\obj\Debug\net8.0\ref\Module_319_task2.dll
